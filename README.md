@@ -28,4 +28,4 @@ from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 ```
 # Jupyter Lab
-<img width="1024" alt="Screenshot 2024-04-01 at 4 23 17 PM" src="https://github.com/jessica-starbase/Fake-News-Detection/assets/125201668/52e44d69-843d-4bcd-98d3-6f0a8bf59fd0">
+<img width="961" alt="Screenshot 2024-04-01 at 4 32 02 PM" src="https://github.com/jessica-starbase/Fake-News-Detection/assets/125201668/2c84c9b8-b666-4131-bcc7-cfa0970d9e2d">
