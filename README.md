@@ -15,3 +15,5 @@ Passive Aggressive algorithms are online learning algorithms. Such an algorithm 
 # Prerequisites
 
 `pip install numpy pandas sklearn`
+`pip install jupyterlab`
+<img width="1024" alt="Screenshot 2024-04-01 at 4 23 17 PM" src="https://github.com/jessica-starbase/Fake-News-Detection/assets/125201668/52e44d69-843d-4bcd-98d3-6f0a8bf59fd0">
